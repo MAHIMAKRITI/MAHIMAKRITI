@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+The sole reason behind this account is to act as a diary to document my journey across the different facets of data analytics. I majored in Computer Science and am currently work as a Software Developer but data exploration and visualisation is where my heart lies and I intend to work across a varied variety of projects to develop and learn new skills.
+You can find my tableau account here - https://public.tableau.com/app/profile/mahima.kriti#!/
+Connect with me on gmail here - kritimahima17@gmail.com
+
